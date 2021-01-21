@@ -1,7 +1,8 @@
 import './App.css';
+import Calendar from './components/Calendar';
 
 const App = () => {
-  return <div>CalendarApp</div>
+  return <Calendar />
 }
 
 export default App;
